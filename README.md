@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on enhancing my skills in **Web development**
 
-- 🌱 I’m currently learning **Javascript frameworks**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Android and web developments projects**
 
