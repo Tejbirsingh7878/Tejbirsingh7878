@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Front-end, Sql**
 
-- ✔️ I have been the participant of open-source event such as HacktoberFest'21.
+- ✔️ I have been the participant of open-source event such as **HacktoberFest'21**.
 
 - 📫 How to reach me **ks.singh7888@gmail.com**
 
