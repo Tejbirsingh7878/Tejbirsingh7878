@@ -35,8 +35,8 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
   
 
-  <h2 align="left">Github stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejbirsingh7878&&theme=algolia" alt="tejbirsingh7878" /></p>
+<!--  <h2 align="left">Github stats:</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejbirsingh7878&&theme=algolia" alt="tejbirsingh7878" /></p> --> 
 
 <!-- ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Tejbirsingh7878&&theme=algolia) -->
 <!-- <h3 align="center">Full Stack developer | Tech Geek</h3> -->
