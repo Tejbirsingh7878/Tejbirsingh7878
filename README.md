@@ -12,13 +12,11 @@
 
 - ✔️ I have been the participant of open-source event such as **HacktoberFest'21**.
 
-- 📫 How to reach me **ks.singh7888@gmail.com**
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/tejbirsingh7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejbirsingh7878" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tejbirsingh7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejbirsingh7878" height="30" width="40" /></a>
-<a href="https://dev.to/tejbirsingh7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tejbirsingh7878" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tejbirsingh23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejbirsingh7878" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/tejbirsingh7878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tejbirsingh7878" height="30" width="40" /></a> -->
 
 </p>
 
