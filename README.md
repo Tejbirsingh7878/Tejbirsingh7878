@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tejbir singh</h1>
-<h3 align ="center"<a href="https://github.com/Tejbirsingh7878/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=23"></a></h3>
-
+<!--- <h3 align ="center"<a href="https://github.com/Tejbirsingh7878/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=23"></a></h3>
+-->
 
 - 🔭 I’m currently working on enhancing my skills in **Web development**
 
