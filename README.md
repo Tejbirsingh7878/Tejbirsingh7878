@@ -2,15 +2,15 @@
 <!--- <h3 align ="center"<a href="https://github.com/Tejbirsingh7878/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=23"></a></h3>
 -->
 
-- 🔭 I’m currently working on enhancing my skills in **Web development**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **MERN Stack**
+<!---  - 🌱 I’m currently learning **MERN Stack** -->
 
-- 👯 I’m looking to collaborate on **Android and web developments projects**
+- 👯 I’m looking to collaborate on **Web developments projects**
 
-- 💬 Ask me about **Java, Front-end, Sql**
+- 💬 Ask me about **Java, Javascript, Reactjs**
 
-- ✔️ I have been the participant of open-source event such as **HacktoberFest'21**.
+- ✔️ I have been the participant of open-source event such as **HacktoberFest 2021**.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
